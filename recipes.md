@@ -14,10 +14,10 @@
 ### Spinach and Artichoke Dip
 
 Ingredients:
-- 1 can (14 oz) artichoke hearts, drained and chopped
-- 1 package (10 oz) frozen chopped spinach, thawed and drained
-- 1 cup mayonnaise
-- 1 cup grated Parmesan cheese
+- 7 can (14 oz) artichoke hearts, drained and chopped
+- 7 package (10 oz) frozen chopped spinach, thawed and drained
+- 5 cup mayonnaise
+- 4 cup grated Parmesan cheese
 - 1/2 cup shredded mozzarella cheese
 - 2 cloves garlic, minced
 
