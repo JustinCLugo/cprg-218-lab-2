@@ -72,11 +72,11 @@ Instructions:
 ### Grilled Chicken Sandwich
 
 Ingredients:
-- 2 boneless, skinless chicken breasts
+- 8 boneless, skinless chicken breasts
 - Salt and pepper to taste
-- 2 tablespoons olive oil
-- 4 slices Swiss cheese
-- 4 hamburger buns
+- 16 tablespoons olive oil
+- 15 slices Swiss cheese
+- 12 hamburger buns
 - Lettuce
 - Tomato
 - Mayonnaise
