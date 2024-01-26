@@ -113,3 +113,15 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Strawberry Cake
+-2 large eggs, room temperature
+-1 cup granulated sugar
+-1 cup sour cream
+-1/2 cup light olive oil, or vegetable oil
+-1 tsp vanilla extract
+-2 cups all-purpose flour , (*measured correctly)
+-2 tsp baking powder
+-1/4 tsp salt
+-12 oz strawberries, hulled
+-1 tsp powdered sugar , for dusting, optional
